@@ -33,4 +33,4 @@ Step10: Add additional functional component
 ![Alt text](image.png)
 
 
-The actual implementation will be available in another sample product repositry
+The actual implementation will be available in another sample product repository
